@@ -1,0 +1,12 @@
+<div id="notice" class="alert alert-secondary alert-dismissible fade show" role="alert">
+  <%%= notice %>
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
+
+<h1><%= human_name %></h1>
+
+<div id="<%= plural_table_name %>">
+  <%%= render @<%= plural_table_name %> %>
+</div>
+
+<%%= link_to "New <%= human_name.downcase %>", new_<%= singular_route_name %>_path %>
