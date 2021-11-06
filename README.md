@@ -6,10 +6,13 @@ Never used Rails before? Join us during HackNC and watch us build some cool thin
 
 ## Requirements
 
-You will want to have the following installed:
+You will want to have the following installed locally to hack away at this project:
 - [Git](https://git-scm.com/downloads)
 - [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 - [Postgres](https://www.postgresql.org/download/)
+
+## Deployment
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## License
 
