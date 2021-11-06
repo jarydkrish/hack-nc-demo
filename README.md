@@ -12,7 +12,7 @@ You will want to have the following installed locally to hack away at this proje
 - [Postgres](https://www.postgresql.org/download/)
 
 ## Deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jarydkrish/hack-nc-demo)
 
 ## License
 
